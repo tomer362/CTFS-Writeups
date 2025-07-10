@@ -1,6 +1,6 @@
 The binary is x86 32 bit that needs ld so from a linux 32bit so I've decided to start a 32bit linux docker
 
-![[Pasted image 20250706234733.png]]
+![[/../../PicoCTF/Babygame03/Pasted image 20250706234733.png]]
 
 
 
