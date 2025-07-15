@@ -1,4 +1,4 @@
 # CTFS-Writeups
-## CTFS
+### CTFS
 
 [PicoCTF](/PicoCTF/README.md)
