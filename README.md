@@ -1,5 +1,4 @@
 # CTFS-Writeups
-Writeups for CTFs I've solved
-
+## CTFS
 
 [PicoCTF](/PicoCTF/README.md)
