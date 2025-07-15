@@ -1,6 +1,7 @@
 The binary is x86 32 bit that needs ld so from a linux 32bit so I've decided to start a 32bit linux docker
 
 
+<img width="1052" height="782" alt="first_game_output" src="https://github.com/user-attachments/assets/d3a54b12-6806-45c8-a62f-639176581462" />
 
 
 
