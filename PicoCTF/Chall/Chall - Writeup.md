@@ -2,6 +2,7 @@ Quite an easy vulnerability exploitation
 We receive a binary that is served through a socket server
 
 Loaded up to binary ninja
+
 <img width="701" height="537" alt="code" src="https://github.com/user-attachments/assets/3367d915-e620-4c67-80c2-90a42c961e37" />
 
 It has a classic `gets` buffer overflow. 
