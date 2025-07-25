@@ -11,6 +11,7 @@ So we won't be able to send a ROP chain based on the program itself (binary has 
 
 Instead of that we can overflow the code variable which is zeroed at the start.
 As you can see the stack diff between the buf and the code is 0x108
+
 <img width="455" height="283" alt="stack" src="https://github.com/user-attachments/assets/0e52daea-6bb4-47e8-91c8-fefe00ca015f" />
 
 
